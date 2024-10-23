@@ -20,4 +20,4 @@ The game supports multiple languages, including Russian, English and German. You
 
 ## Contributing to the Project
 
-If you would like to contribute to the development of Wordtris, please create a fork of the repository and submit a pull request with your changes.
+If you would like to contribute to the development of Bulls and Cows, please create a fork of the repository and submit a pull request with your changes.
